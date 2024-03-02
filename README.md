@@ -1,7 +1,7 @@
 # Sales-Forecasting-for-Live-Streamers
-Final project in 112-1 NCCU Text Mining course. Our group got honorable mention award in the final competition.
+Final project in 112-1 NCCU Text Mining course. Our group got **honorable mention award** in the final competition.
 
-# The model used for fintune
+# The model we fintuned
 ### BERT
 > For Category Classification
   ```
